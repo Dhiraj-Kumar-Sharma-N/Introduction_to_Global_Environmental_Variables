@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23826" started-at="2019-03-17T10:48:41Z" finished-at="2019-03-17T10:49:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23826" started-at="2019-03-17T10:48:41Z" finished-at="2019-03-17T10:49:05Z">
+      <class name="Global_Environmental_Variables.GlobalVariables">
+        <test-method status="PASS" signature="Login()[pri:0, instance:Global_Environmental_Variables.GlobalVariables@2096442d]" name="Login" duration-ms="23763" started-at="2019-03-17T16:18:41Z" finished-at="2019-03-17T16:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- Global_Environmental_Variables.GlobalVariables -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
